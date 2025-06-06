@@ -1,6 +1,5 @@
-import { formatScore } from "./utils";
+import { formatScore } from "./utils/testUtil";
 
 export const GameUtils = {
-  formatScore,
-  // Add more utility functions related to the game here
+  formatScore: (t: number) => formatScore(t),
 }

@@ -1,3 +1,3 @@
 export function formatScore(score: number): string {
-  return score.toFixed(2);
+  return `score: ${score.toFixed(2)}`;
 }
