@@ -1,7 +1,11 @@
 {
-  "name": "cc-game-core",
+  "name": "uado-cc-game-core",
   "version": "1.0.0",
-  "description": "",
+  "description": "cocos creator game core library",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Uado1104/cc-game-common.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "src/index.js",
@@ -22,6 +26,8 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-import": "^2.28.1",
     "eslint-plugin-prettier": "^5.0.1",
+    "@cocos/creator-types": "^3.8.6",
+    "@types/fs-extra": "^9.0.5",
     "prettier": "^3.0.3",
     "eslint": "^8.57.0"
   },

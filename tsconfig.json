@@ -4,9 +4,11 @@
     "module": "commonjs",
     "outDir": "./dist",
     "rootDir": "./src",
+    "declarationMap": true, // 额外的源码映射
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "experimentalDecorators": true,
+    "declaration": true,
     "skipLibCheck": true
   },
   "include": ["src/**/*.ts"],
