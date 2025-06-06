@@ -1,5 +1,3 @@
-import { formatScore } from "./utils/testUtil";
+import * as testUtils from './utils/testUtil';
 
-export const GameUtils = {
-  formatScore: (t: number) => formatScore(t),
-}
+export { testUtils };
