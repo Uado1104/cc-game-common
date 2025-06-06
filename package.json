@@ -1,5 +1,5 @@
 {
-  "name": "uado-cc-game-core",
+  "name": "@cc-uado/cc-game-core",
   "version": "1.0.0",
   "description": "cocos creator game core library",
   "repository": {
