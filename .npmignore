@@ -1,0 +1,12 @@
+src/
+test/
+tsconfig.json
+*.log
+.DS_Store
+*.tsbuildinfo
+.eslintrc.json
+.vscode/
+.eslintrc.json
+.gitignore
+.eslintignore
+.prettierrc
